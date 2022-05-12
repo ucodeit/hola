@@ -1,1 +1,5 @@
-nueva linea para solucionar conflictos
+nueva linea para solucionar conflictos 
+
+alteracion de Dax para creacr conflictos
+
+otra linea para alterar este archivo
